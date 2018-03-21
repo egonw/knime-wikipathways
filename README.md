@@ -1,4 +1,6 @@
-KNIME node skeleton with sample code as described [here](https://tech.knime.org/developer-guide).
+# WikiPathways KNIME Nodes
+
+These nodes are based on the KNIME node skeleton with sample code as described [here](https://tech.knime.org/developer-guide).
 
 [![Build Status](https://travis-ci.org/wikipathways/knime-wikipathways.svg?branch=master)](https://travis-ci.org/wikipathways/knime-wikipathways)
 [![SonarCloud Gate](https://sonarcloud.io/api/badges/gate?key=org.wikipathways:org.wikipathways.knime)](https://sonarcloud.io/dashboard?id=org.wikipathways:org.wikipathways.knime)
