@@ -2,7 +2,7 @@
 
 These nodes are based on the KNIME node skeleton with sample code as described [here](https://tech.knime.org/developer-guide).
 
-[![Build Status](https://travis-ci.org/wikipathways/knime-wikipathways.svg?branch=master)](https://travis-ci.org/wikipathways/knime-wikipathways)
+[![Build Status](https://travis-ci.org/egonw/knime-wikipathways.svg?branch=master)](https://travis-ci.org/egonw/knime-wikipathways)
 [![SonarCloud Gate](https://sonarcloud.io/api/badges/gate?key=org.wikipathways:org.wikipathways.knime)](https://sonarcloud.io/dashboard?id=org.wikipathways:org.wikipathways.knime)
 [![SonarCloud Coverage](https://sonarcloud.io/api/badges/measure?key=org.wikipathways:org.wikipathways.knime&metric=coverage)](https://sonarcloud.io/component_measures/domain/Coverage?id=org.wikipathways:org.wikipathways.knime)
 
