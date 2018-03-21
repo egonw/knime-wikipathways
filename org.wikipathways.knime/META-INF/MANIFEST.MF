@@ -2,7 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: WikiPathways-Node extension for KNIME Workbench
 Bundle-SymbolicName: org.wikipathways.knime; singleton:=true
-Bundle-ClassPath: wikipathways.jar
+Bundle-ClassPath: wikipathways.jar,
+ .
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: org.wikipathways.knime.Activator
 Bundle-Vendor: Egon Willighagen
