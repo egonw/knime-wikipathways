@@ -6,18 +6,18 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<scm>
-		<url>https://github.com/wikipathways/knime-wikipathways/</url>
-		<connection>scm:git:https://github.com/wikipathways/knime-wikipathways.git</connection>
-		<developerConnection>scm:git:git@github.com:wikipathways/knime-wikipathways.git</developerConnection>
+		<url>https://github.com/egonw/knime-wikipathways/</url>
+		<connection>scm:git:https://github.com/egonw/knime-wikipathways.git</connection>
+		<developerConnection>scm:git:git@github.com:egonw/knime-wikipathways.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 	<issueManagement>
 		<system>GitHub</system>
-		<url>https://github.com/wikipathways/knime-wikipathways/issues</url>
+		<url>https://github.com/egonw/knime-wikipathways/issues</url>
 	</issueManagement>
 	<ciManagement>
 		<system>Travis CI</system>
-		<url>http://travis-ci.org/wikipathways/knime-wikipathways</url>
+		<url>http://travis-ci.org/egonw/knime-wikipathways</url>
 	</ciManagement>
 	<prerequisites>
 		<maven>3.0</maven>
@@ -30,7 +30,7 @@
 		<tycho.test.jvmArgs>-Xmx512m</tycho.test.jvmArgs>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<tycho.scmUrl>scm:git:https://github.com/wikipathways/knime-wikipathways.git</tycho.scmUrl>
+		<tycho.scmUrl>scm:git:https://github.com/egonw/knime-wikipathways.git</tycho.scmUrl>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.organization>wikipathways</sonar.organization>
 	</properties>
